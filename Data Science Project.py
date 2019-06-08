@@ -4,7 +4,7 @@ Veterans of America are most likely to donate money in an effort to
 fundraise. Sending out donation requests
 costs money and it's important to be strategic in targeting which members
 are most likely to donate and to figure out how much they are likely to donate.
-The data is fairly large and messy dataset with over 96000 records and about 
+The dataset is fairly large and messy with over 96000 records and about 
 500 variables. The records were related to the individual members and the variables
 (columns) represented things like income, family size, race, etc.
 """
