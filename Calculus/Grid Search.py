@@ -1,3 +1,8 @@
+"""
+Contact:
+Zachary Hunt
+hunt.590@buckeyemail.osu.edu
+"""
 # Using a grid search to minimize the sum of squared error
 
 import random
