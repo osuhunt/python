@@ -1,3 +1,5 @@
+# Using a grid search to minimize the sum of squared error
+
 import random
 import numpy as np
 import math
