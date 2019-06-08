@@ -1,3 +1,8 @@
+"""
+Contact:
+Zachary Hunt
+hunt.590@buckeyemail.osu.edu
+"""
 # User inputs the ‘response’ vector and the ‘design matrix’
 
 import random
