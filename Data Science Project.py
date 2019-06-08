@@ -1,6 +1,6 @@
 """
 The goal of this project is to predict which members of the Paralyzed
-Veterans of America were most likely to donate money in an effort to 
+Veterans of America are most likely to donate money in an effort to 
 fundraise. Sending out donation requests
 costs money and it's important to be strategic in targeting which members
 are most likely to donate and to figure out how much they are likely to donate.
