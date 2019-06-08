@@ -1,3 +1,9 @@
+import random
+import numpy as np
+import math
+import pandas as pd
+import scipy.stats as stats
+
 def calculate_SSE(X, Y, slope, intercept):
     error=((slope*X+intercept)-Y)**2
     return sum(error)
