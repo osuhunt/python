@@ -1,4 +1,10 @@
 """
+Contact:
+Zachary Hunt
+hunt.590@buckeyemail.osu.edu
+"""
+
+"""
 The goal of this project is to predict which members of the Paralyzed
 Veterans of America are most likely to donate money in an effort to 
 fundraise. Sending out donation requests
