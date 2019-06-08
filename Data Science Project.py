@@ -1,16 +1,12 @@
 """
 The goal of this project is to predict which members of the Paralyzed
-Veterans of America were most likely to donate money in order to raise
-as much money as possible. Sending out donation requests
+Veterans of America were most likely to donate money in an effort to 
+fundraise. Sending out donation requests
 costs money and it's important to be strategic in targeting which members
 are most likely to donate and to figure out how much they are likely to donate.
-The data set is fairly large and messy dataset with over 96000 records and about 
+The data is fairly large and messy dataset with over 96000 records and about 
 500 variables. The records were related to the individual members and the variables
 (columns) represented things like income, family size, race, etc.
-This is the ultimate project because the dataset is messy and big. I not only have
-to use classification  algorithms to figure out if someone donated or not
-but also had to run a regression to predict how much money the people who were 
-predicted to donate would actually donate.
 """
 
 # Data used for this project can be found in the 'python' repository labeled as
