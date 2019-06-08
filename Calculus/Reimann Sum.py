@@ -1,3 +1,9 @@
+"""
+Contact:
+Zachary Hunt
+hunt.590@buckeyemail.osu.edu
+"""
+
 # Using Reimann sums to approximate the area under the standard normal PDF
 
 import random
