@@ -4,7 +4,7 @@ Zachary Hunt
 hunt.590@buckeyemail.osu.edu
 """
 
-# Implementing entropy and gain functions for a given dataset (CSV file, last attribute is class label
+# Implementing entropy and gain functions for a given dataset (CSV file, last attribute is class label)
 
 import pandas as pd
 import numpy as np
