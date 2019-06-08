@@ -1,3 +1,9 @@
+"""
+Contact:
+Zachary Hunt
+hunt.590@buckeyemail.osu.edu
+"""
+
 # Works with any csv where the last attribute is the class label and assuming all non-
 # class attributes are continuous random variables.
 
