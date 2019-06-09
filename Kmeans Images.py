@@ -1,3 +1,9 @@
+"""
+Contact:
+Zachary Hunt
+hunt.590@buckeyemail.osu.edu
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
