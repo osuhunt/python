@@ -14,9 +14,7 @@ The dataset is fairly large and messy with over 96000 records and about
 500 variables. The records were related to the individual members and the variables
 (columns) represented things like income, family size, race, etc.
 
-Data used for this project can be found in the 'python' repository labeled as
-'cup98LRN.csv' as the training data and 'cup98VAL.csv' as the data used to make
-predictions.
+Data used for this project can be found here: https://kdd.ics.uci.edu/databases/kddcup98/kddcup98.html
 """
 
 import pandas as pd
