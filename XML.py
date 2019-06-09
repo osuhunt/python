@@ -1,4 +1,8 @@
-
+"""
+Contact:
+Zachary Hunt
+hunt.590@buckeyemail.osu.edu
+"""
 
 # Creating an XML file
 
@@ -186,7 +190,7 @@ results_filename = os.path.join(output_data_dir,'xml_results.txt')
         print(e)
  
 test_results(xml_filename)
-
+"""
 
 <?xml version="1.0" encoding="utf-8"?>
 <root>
@@ -271,5 +275,6 @@ test_results(xml_filename)
 		<year>1985</year>
 	</player>
 </root>
+"""
 
 # It works!
