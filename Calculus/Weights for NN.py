@@ -114,3 +114,4 @@ w1_new = w1 - (0.01*w1_grad)
 w2_new = w2 - (0.01*w2_grad)
 w3_new = w3 - (0.01*w3_grad)
 w4_new = w4 - (0.01*w4_grad)
+
